@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS-643295?style=for-the-badge&logo=css&logoColor=white)
 ![React](https://img.shields.io/badge/React-6AD2ED?style=for-the-badge&logo=react&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-304F75?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4C598E?style=for-the-badge&logo=php&logoColor=white)
 
 <hr/>
 
